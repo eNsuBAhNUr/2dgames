@@ -1,0 +1,12 @@
+import pygame
+
+WIDTH, HEIGHT = 600, 800
+FPS = 60
+WIN = pygame.display.set_mode((WIDTH, HEIGHT))
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+BG_COLOR = (10,10,25)
+METEOR_COLOR = (150,50,50)
+ORB_COLOR = (0,200,255)
+ENERGY_BAR_COLOR = (0,255,0)
+YELLOW = (255,255,0)
